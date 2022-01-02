@@ -3,7 +3,7 @@ Since normal paper memo is not that attractive for me, I always forgot to check 
 
 Originally I wanted to use the rotary encoder for the input of letters. But it was broken (It was bought with a kit set in Aliexpress). So I need to control the cursor and the letter selection system with the same joystick. (Fun Fact: The joystick was bought with the same kit set with the rotary encoder. It was out of order a few days later after the rotary encoder. What bad luck!!)
 
-Here is teh video of teh memo before the death of the joystick 
+Here is the video of the memo before the death of the joystick 
 https://youtu.be/EILXkjalpyk
 
 Lastly,
